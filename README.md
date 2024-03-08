@@ -5,4 +5,4 @@
 
 <p>&nbsp;<img left="right" src="https://github-readme-stats.vercel.app/api?username=BoraTyln&show_icons=true&locale=en&bg_color=000000&text_color=6666ff" alt="BoraTyln" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BoraTyln&theme=highcontrast" alt="GitHub Streak" /></a>
+<a ><img src="https://streak-stats.demolab.com?user=BoraTyln&theme=highcontrast" alt="GitHub Streak" /></a>
