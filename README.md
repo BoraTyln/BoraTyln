@@ -4,9 +4,5 @@
 
 🛠️ Languages & Tools
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=cpp,c#,ts,html,css,react,nodejs,git,docker,postgresql" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=cpp,c#,ts,html,css" /> </p>
 
-🚀 Featured Projects
-🔹 Project Name — Short description of what it does
-🔹 Project Name — Short description of what it does
-🔹 Project Name — Short description of what it does
