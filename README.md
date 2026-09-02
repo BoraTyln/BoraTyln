@@ -6,3 +6,4 @@
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=cpp,cs,ts,js,html,css,react,dotnet,docker,jenkins,linux" /> </p>
 
+https://github-readme-stats.vercel.app/api/top-langs?method=repos;
