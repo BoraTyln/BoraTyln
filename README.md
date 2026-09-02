@@ -4,5 +4,5 @@
 
 🛠️ Languages & Tools
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=cpp,c#,ts,js,html,css" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=cpp,cs,ts,js,html,css" /> </p>
 
