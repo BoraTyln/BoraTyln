@@ -4,5 +4,5 @@
 
 🛠️ Languages & Tools
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=cpp,cs,ts,js,html,css,docker,jenkins,linux" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=cpp,cs,ts,js,html,css,react,dnet,docker,jenkins,linux" /> </p>
 
