@@ -6,4 +6,5 @@
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=cpp,cs,ts,js,html,css,react,dotnet,docker,jenkins,linux" /> </p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BoraTyln&theme=city_lights&animation=load)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BoraTyln&theme=city_lights&animation=load)
